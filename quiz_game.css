@@ -1,0 +1,16 @@
+body
+{
+	background: rgb(245, 20, 20);
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#number1_input , #number2_input{
+    width: 1000px;
+}
